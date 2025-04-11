@@ -1,0 +1,7 @@
+transformers
+huggingface_hub
+accelerate
+bitsandbytes
+torch
+opencv-python
+Pillow
